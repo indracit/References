@@ -8,6 +8,9 @@
 1. [The Node.js Event emitter](https://nodejs.dev/en/learn/the-nodejs-event-emitter/)
 2. [Node.js - Event Emitter](https://www.tutorialspoint.com/nodejs/nodejs_event_emitter.htm)
 
+## 3. File System
+1. [Node.js - File System](https://www.tutorialspoint.com/nodejs/nodejs_file_system.htm)
+2. [Node.js File System Module](https://www.w3schools.com/nodejs/nodejs_filesystem.asp)
 
 
 
