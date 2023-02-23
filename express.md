@@ -8,4 +8,6 @@
 1. [How to Authenticate Users and Implement CORS in Node.js Apps](https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/)
 2. [CORS - npm](https://www.npmjs.com/package/cors)
 
-## 3. 
+## 3. Express 
+1. [Express Explained with Examples - Installation, Routing, Middleware, and More](https://www.freecodecamp.org/news/express-explained-with-examples-installation-routing-middleware-and-more/)
+
